@@ -156,7 +156,7 @@ const CTATextBox = () => {
                 style={{
                   boxSizing: "border-box",
                   margin: "0px",
-                  padding: "0px 5px",
+                  padding: "0px 5pxCTASection",
                   backgroundPosition: "50% center",
                   outline: "0px",
                   WebkitTapHighlightColor: "transparent",
